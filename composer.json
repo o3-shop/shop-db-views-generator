@@ -1,0 +1,29 @@
+{
+  "name": "o3-shop/shop-db-views-generator",
+  "description": "O3-Shop database views regeneration from console command",
+  "license": "GPL-3.0-only",
+  "author": [
+    {
+      "name": "OXID eSales AG",
+      "email": "info@oxid-esales.com",
+      "homepage": "https://oxid-esales.com",
+      "role": "Developer"
+    },
+    {
+      "name": "O3-Shop",
+      "email": "info@o3-shop.com",
+      "homepage": "https://www.o3-shop.com",
+      "role": "Developer"
+    }
+  ],
+  "bin": [
+    "./oe-eshop-db_views_regenerate",
+    "./oe-eshop-db_views_generate"
+  ],
+  "autoload": {
+    "psr-4": {"OxidEsales\\DatabaseViewsGenerator\\": "src"}
+  },
+  "replace": {
+    "oxid-esales/oxideshop-db-views-generator": "1.3.0"
+  }
+}
