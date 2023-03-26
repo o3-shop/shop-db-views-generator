@@ -25,6 +25,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 - Fix error file name to ``oxideshop.log`` [PR-1](https://github.com/OXID-eSales/oxideshop-db-views-generator/pull/1)
 
-[v1.0.0]: https://github.com/o3-shop/shop-db-views-generator/releases/tag/v1.0.0
+[v1.0.0]: https://gitlab.o3-shop.com/o3/shop-db-views-generator/-/tags/v1.0.0
 [O3-Shop]: https://www.o3-shop.com/
 [v1.3.0]: https://github.com/OXID-eSales/oxideshop-db-views-generator/compare/v1.2.0...v1.3.0
