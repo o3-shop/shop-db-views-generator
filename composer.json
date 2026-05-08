@@ -25,5 +25,8 @@
   },
   "replace": {
     "oxid-esales/oxideshop-db-views-generator": "1.3.0"
+  },
+  "archive": {
+    "exclude": [".next-bump"]
   }
 }
